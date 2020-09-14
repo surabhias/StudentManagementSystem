@@ -1,0 +1,61 @@
+
+  .create{
+    text-align: left;
+    height: 163px;
+    color: white;
+
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 374px;
+    height: 150px;
+}
+
+.view{
+    text-align: left;
+    height: 163px;
+    color: white;
+
+    border-radius: 25px;
+    background: #218cad;
+    padding: 20px;
+    width: 374px;
+    height: 150px;
+    margin-left: 10px;
+}
+
+.total{
+    text-align: left;
+    height: 163px;
+    color: white;
+
+    border-radius: 25px;
+    background: #ad2121;
+    padding: 20px;
+    width: 374px;
+    height: 150px;
+    margin-left: 10px;
+}
+
+.iconclr{
+    color: white;
+    font-size: 60px;
+    padding-left: 222px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+    
+    background-color: #091f4e;
+    color: white;
+    text-align: center;
+ }
+
+ .nav1{
+    background-color: #091f4e;
+ }
+
