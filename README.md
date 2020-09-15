@@ -8,6 +8,7 @@ This application, there are some dependencies you will need to understand. For e
 Please read the below instruction to run the application on your system without any difficulties. There are few changes required in the source code to run the application. So Please follow the steps carefully.
 
 **Users: Admin**
+
 	Username : admin
 	Password : admin
 
@@ -28,7 +29,7 @@ Manage Student Details Admin can manage student details view update and also fil
 	•	viewBranch
 
 **Please Read:**
-To run this system, you need to create a database in the phpMyAdmin dbatabase sql file is icludede in folder named database. Either you can create a database namely student_management or something else. If you have a database name something else then, you have to change it in the source code. To change the database name in the source code.
+To run this system, you need to create a database in the phpMyAdmin. Either you can create a database namely student_management or something else. If you have a database name something else then, you have to change it in the source code. To change the database name in the source code.
 
 **Step 1:** Go to the application > config > Database.php file.
 
